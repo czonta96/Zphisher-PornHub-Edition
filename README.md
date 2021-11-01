@@ -2,10 +2,10 @@
 A couple of screenshot of my social engineering job here.
 
 This version of Zphisher by Tahmid Rayat improves the social engineering aspect which is very important aspect in the phishing process.
-In Phishing does't mean "How much good you are at hacking" rather than "How much good you are are at tricking".
+In Phishing does't mind "How much good you are at hacking" rather than "How much good you are are at tricking".
 
 Well guys, sexual scam or sexual extorsion are too aggressive social engineering attacks which great synergy with phishing,
-your targets might not fill the form in order to give you their passwords but a well perfoemed sexual scam along with a good edited phishing page
+your targets might not fill the form in order to give you their passwords but a well performed sexual scam along with a good edited phishing page
 will make them shit their pants for sure.
 So this repository is not providing
 any content, just screenshots. That's why Tahmid is never going to add porn sites on his own repository, me and him are not responsible for your shit.
